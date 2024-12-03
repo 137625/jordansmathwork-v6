@@ -1,4 +1,6 @@
-
+> [!IMPORTANT]
+> Please consider giving this respritory a star if you feel like it.
+# 
 <p align="center"><img src="https://github.com/GalacticNetwork/jordansmathwork-v6/blob/main/assets/images/jmw.png?raw=true" height="200">
 </p>
 
