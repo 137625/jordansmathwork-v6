@@ -1,6 +1,6 @@
 self.__uv$config = {
   prefix: '/static/jmwsw/',
-  bare: 'https://v2202411241114295257.megasrv.de/bare/',
+  bare: 'https://bare.galacticnetwork.org/bare/',
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: '/static/uv/uv.handler.js',
@@ -8,3 +8,4 @@ self.__uv$config = {
   config: '/static/uv/uv.config.js',
   sw: '/static/uv/uv.sw.js',
 };
+// DO NOT USE MY BARE
